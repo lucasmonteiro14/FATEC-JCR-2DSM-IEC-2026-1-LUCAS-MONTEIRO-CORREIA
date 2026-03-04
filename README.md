@@ -1,2 +1,16 @@
-# FATEC-JCR-2DSM-IEC-2026-1-LUCAS-MONTEIRO-CORREIA
-Disciplina de Experiência de Usuário - 2º Semestre DSM - 2026/1
+## Aluno
+- Nome: Lucas Monteiro Correia
+- LinkedIn:https://www.linkedin.com/in/lucasmonteirocorreia
+- GitHub:https://github.com/lucasmonteiro14
+---
+## Estrutura
+- P1
+- P2
+- Requisitos-ABP
+- Reflexoes
+---
+## Projeto ABP
+Descrição do problema escolhido.
+---
+## Aprendizados
+Registro reflexivo sobre evolução no semestre
